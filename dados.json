@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-04T04:02:26.206Z",
-  "totalStock": 50,
+  "generatedAt": "2026-07-04T04:08:41.763Z",
+  "totalStock": 48,
   "categories": [
     {
       "name": "Seleções",
       "items": [
         {
           "name": "Nova Camisa Brasil 1.1 I 25/26 Jogador Masculina Copa do Mundo",
-          "stock": 28,
+          "stock": 30,
           "sizes": [
             "P",
             "M",
@@ -15,6 +15,7 @@
             "GG"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/logo-371ef366d7064217e717788844067839-480-0.webp",
+          "price": 180,
           "isNew": false
         },
         {
@@ -26,24 +27,7 @@
             "GG"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/logo-0ec3918a90a805d41b17788870988653-480-0.webp",
-          "isNew": false
-        },
-        {
-          "name": "(Com Detalhes) Nova Camisa Brasil 1.1 I 25/26 Jogador Masculina Copa do Mundo",
-          "stock": 12,
-          "sizes": [
-            "GG"
-          ],
-          "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/logo-0664f1631fcd5d4f8817795539944358-480-0.png",
-          "isNew": false
-        },
-        {
-          "name": "Camisa Brasil 1.2 2026 Torcedor Masculina (Versão Vazada)",
-          "stock": 2,
-          "sizes": [
-            "M"
-          ],
-          "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/logo-99f4de97747929cb9117794083579802-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -53,6 +37,7 @@
             "G"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/logo-0bf39105d9eeeaa37317788888672707-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -64,6 +49,7 @@
             "GG"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/untitled-design-7a6e375bb63739102f17794089744032-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -74,6 +60,7 @@
             "2GG"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_5800-508f0bddc8db77f68f17736271037836-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -83,6 +70,7 @@
             "P"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_7279-dc85c3e39fca14472e17770665770545-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -92,6 +80,7 @@
             "2GG"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_5975-7ba0bdc02b193cd3b317738837091592-480-0.webp",
+          "price": 140,
           "isNew": false
         }
       ]
@@ -106,6 +95,7 @@
             "M"
           ],
           "image": "images/corinthians-2627-jogador.jpg",
+          "price": 180,
           "isNew": true
         },
         {
@@ -115,6 +105,7 @@
             "M"
           ],
           "image": "images/santos-2627-torcedor.jpg",
+          "price": 140,
           "isNew": true
         },
         {
@@ -124,6 +115,7 @@
             "M"
           ],
           "image": "images/flamengo-2627-jogador.jpg",
+          "price": 180,
           "isNew": true
         },
         {
@@ -134,6 +126,7 @@
             "3GG"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/medium-ef3c6e77c32baf394917612484295899-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -143,6 +136,7 @@
             "4GG"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_2715-a38eaaf7df52373bee17647986306502-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -154,6 +148,7 @@
             "GG"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/1000195212-73e5a121c8f985eff317648014774796-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -163,6 +158,7 @@
             "2XL"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_2593-98cf1c783f6cac423117645287213860-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -173,6 +169,7 @@
             "2GG"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/medium-87af43ef6a4c5f77d617612424385285-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -185,6 +182,7 @@
             "GG"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_3086-d5a0e3e981eeef53d817658286561184-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -196,6 +194,7 @@
             "2XL"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_8694-4c0f0549723af293a217811429072027-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -205,6 +204,7 @@
             "2XL"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_4656-be9eb761901cdc53b317697974593078-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -214,6 +214,7 @@
             "2GG"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_3084-a0b50c41a89f1f7fcb17658285902083-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -227,6 +228,7 @@
             "2GG"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_6249-4a33756cc3c28c06df17744692575845-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -238,6 +240,7 @@
             "GG"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_6752-e52bc4bf257828d16a17766374740386-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -247,6 +250,7 @@
             "GG"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/medium-f8fd1780438599971717612420332793-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -256,6 +260,7 @@
             "P"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/1000204572-2c4d083995817b69fa17659806130753-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -269,6 +274,7 @@
             "2XL"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_6251-0ae9107658ec816be217744695850454-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -280,6 +286,7 @@
             "GG"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_6253-d5bf178f67bcdf540f17744701745498-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -289,6 +296,7 @@
             "P"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/1000201907-1a7a1e633d326ffb6b17655116347675-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -298,6 +306,7 @@
             "GG"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_3194-af4931cfe2d62e725e17663429130179-480-0.webp",
+          "price": 180,
           "isNew": false
         },
         {
@@ -307,6 +316,7 @@
             "2XL"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_4657-07df1f77774804e62117697997500611-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -316,6 +326,7 @@
             "2XL"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_4120-9cb26cf8dfd1cdbdf417684301006703-480-0.webp",
+          "price": 140,
           "isNew": false
         }
       ]
@@ -331,6 +342,7 @@
             "2XL"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_4623-41dbab3bdaa4448e1c17708293403036-480-0.png",
+          "price": 140,
           "isNew": false
         },
         {
@@ -340,6 +352,7 @@
             "P"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_4635-a0f0fe14091e80bfc517697132032151-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -349,6 +362,7 @@
             "P"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_4610-a55a0d94d443dfa14617697019560853-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -359,6 +373,7 @@
             "2XL"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/medium-3ebb281ba8d1b18b6f17612414036380-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -370,6 +385,7 @@
             "2XL"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_7269-a4e85fac06445ed0e017770641950257-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -380,6 +396,7 @@
             "2XL"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/medium-9ce0c77209f0afa44b17612447872205-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -389,6 +406,7 @@
             "2XL"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_2727-53165011469050af4d17648013191264-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -401,6 +419,7 @@
             "2XL"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_2025-00bb2422c78d413a5317630724532569-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -410,6 +429,7 @@
             "2XL"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/1000196132-c0899cdd57b25a9b5c17648961704908-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -419,6 +439,7 @@
             "P"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_4612-d8c24108eafe69a6ec17697021799896-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -429,6 +450,7 @@
             "3GG"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_4632-8f46bf112ec3cb622917697130745409-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -438,6 +460,7 @@
             "P"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/medium-521ab11b10dba0cd4517612467507617-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -448,6 +471,7 @@
             "G"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_4600-aba25069ea4e884f4017697011029871-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -457,6 +481,7 @@
             "2XL"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_4141-f0a92a28a4c35ebef217684372312022-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -469,6 +494,7 @@
             "2XL"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_7267-9fa15adf6030a4418517770636757859-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -478,6 +504,7 @@
             "2GG"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/medium-edb6c5d703e678fa2717612481631873-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -491,6 +518,7 @@
             "2XL"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_5872-9c277e23bf7d9312e717736305745701-480-0.webp",
+          "price": 140,
           "isNew": false
         }
       ]
@@ -508,6 +536,7 @@
             "2GG"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/logo-3b9a373535d6f8072317788823929948-480-0.webp",
+          "price": 140,
           "isNew": false
         },
         {
@@ -518,6 +547,7 @@
             "M"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_3581-5194300d355aff1f2e17794990982994-480-0.webp",
+          "price": 140,
           "isNew": false
         }
       ]
