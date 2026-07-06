@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T07:00:47.344Z",
+  "generatedAt": "2026-07-06T07:00:54.701Z",
   "totalStock": 48,
   "categories": [
     {
@@ -7,7 +7,7 @@
       "items": [
         {
           "name": "Nova Camisa Brasil 1.1 I 25/26 Jogador Masculina Copa do Mundo",
-          "stock": 23,
+          "stock": 20,
           "sizes": [
             "P",
             "M",
@@ -163,9 +163,8 @@
         },
         {
           "name": "Camisa Corinthians II 2025/26 Torcedor Masculina",
-          "stock": 8,
+          "stock": 7,
           "sizes": [
-            "GG",
             "2GG"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/medium-87af43ef6a4c5f77d617612424385285-480-0.webp",
@@ -174,7 +173,7 @@
         },
         {
           "name": "Camisa Corinthians III 25/26 Torcedor Masculina",
-          "stock": 125,
+          "stock": 123,
           "sizes": [
             "P",
             "M",
@@ -230,7 +229,7 @@
         },
         {
           "name": "Camisa Flamengo I 26/27 Torcedor Masculina",
-          "stock": 34,
+          "stock": 32,
           "sizes": [
             "M",
             "G",
@@ -524,7 +523,7 @@
       "items": [
         {
           "name": "Camisa Brasil 1.2 I 1998 Retrô Masculina (Não está 1.1)",
-          "stock": 114,
+          "stock": 113,
           "sizes": [
             "P",
             "G",
