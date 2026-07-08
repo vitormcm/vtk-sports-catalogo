@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T07:00:56.024Z",
+  "generatedAt": "2026-07-08T12:54:38.351Z",
   "totalStock": 61,
   "categories": [
     {
@@ -20,7 +20,7 @@
         },
         {
           "name": "Nova Camisa Brasil I 25/26 Torcedor Masculina Copa do Mundo",
-          "stock": 35,
+          "stock": 34,
           "sizes": [
             "M",
             "G",
@@ -164,7 +164,7 @@
         },
         {
           "name": "Camisa Atlético Mineiro II 26/27 Torcedor Masculina",
-          "stock": 24,
+          "stock": 23,
           "sizes": [
             "P",
             "M",
@@ -225,7 +225,7 @@
         },
         {
           "name": "Camisa Cruzeiro I 2026/27 Torcedor Masculina",
-          "stock": 31,
+          "stock": 29,
           "sizes": [
             "P",
             "M",
@@ -281,10 +281,9 @@
         },
         {
           "name": "Camisa Flamengo I 26/27 Torcedor Masculina",
-          "stock": 29,
+          "stock": 25,
           "sizes": [
             "M",
-            "G",
             "GG"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_6752-e52bc4bf257828d16a17766374740386-480-0.webp",
@@ -340,7 +339,7 @@
         },
         {
           "name": "Camisa Flamengo Preta 25/26 Torcedor Masculina",
-          "stock": 12,
+          "stock": 10,
           "sizes": [
             "P",
             "M",
@@ -598,7 +597,7 @@
         },
         {
           "name": "Camisa Real Madrid I 2025/26 Torcedor Masculina",
-          "stock": 25,
+          "stock": 23,
           "sizes": [
             "GG",
             "2GG"
