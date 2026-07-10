@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-09T07:00:51.156Z",
-  "totalStock": 76,
+  "generatedAt": "2026-07-10T07:00:55.963Z",
+  "totalStock": 73,
   "categories": [
     {
       "name": "Seleções",
@@ -20,7 +20,7 @@
         },
         {
           "name": "Nova Camisa Brasil I 25/26 Torcedor Masculina Copa do Mundo",
-          "stock": 47,
+          "stock": 49,
           "sizes": [
             "M",
             "G",
@@ -75,11 +75,10 @@
         },
         {
           "name": "Camisa Argentina I 2026 Torcedor Masculina",
-          "stock": 14,
+          "stock": 9,
           "sizes": [
             "M",
             "G",
-            "GG",
             "2XL"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_5411-e32a6ab6fc0acaa91c17724569721947-480-0.webp",
@@ -109,7 +108,7 @@
         },
         {
           "name": "Camisa Espanha I 2026 Torcedor Masculina",
-          "stock": 10,
+          "stock": 9,
           "sizes": [
             "M",
             "G",
@@ -168,7 +167,7 @@
         },
         {
           "name": "Camisa Atlético Mineiro I 26/27 Torcedor Masculina",
-          "stock": 20,
+          "stock": 19,
           "sizes": [
             "P",
             "M",
@@ -193,8 +192,9 @@
         },
         {
           "name": "Camisa Atlético Mineiro II 26/27 Torcedor Masculina",
-          "stock": 11,
+          "stock": 10,
           "sizes": [
+            "P",
             "M",
             "G",
             "GG",
@@ -253,7 +253,7 @@
         },
         {
           "name": "Camisa Cruzeiro I 2026/27 Torcedor Masculina",
-          "stock": 23,
+          "stock": 20,
           "sizes": [
             "M",
             "G",
@@ -321,16 +321,6 @@
           "isNew": false
         },
         {
-          "name": "Camisa Flamengo III 2025/26 Torcedor Masculina",
-          "stock": 1,
-          "sizes": [
-            "G"
-          ],
-          "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/medium-f8fd1780438599971717612420332793-480-0.webp",
-          "price": 140,
-          "isNew": false
-        },
-        {
           "name": "Camisa Flamengo Polo Treino Azul Escura 2025/26 Torcedor Masculina",
           "stock": 2,
           "sizes": [
@@ -393,7 +383,7 @@
         },
         {
           "name": "Camisa Fluminense I 26/27 Torcedor Masculina",
-          "stock": 24,
+          "stock": 23,
           "sizes": [
             "P",
             "M",
@@ -470,19 +460,8 @@
           "isNew": false
         },
         {
-          "name": "Camisa São Paulo II 25/26 Torcedor Masculina",
-          "stock": 2,
-          "sizes": [
-            "P",
-            "GG"
-          ],
-          "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_9359-d8cc454d2e3298856f17835301852338-480-0.webp",
-          "price": 140,
-          "isNew": false
-        },
-        {
           "name": "Camisa Vasco da Gama Goleiro 2025 Torcedor Masculina",
-          "stock": 5,
+          "stock": 4,
           "sizes": [
             "M",
             "G",
@@ -494,10 +473,11 @@
         },
         {
           "name": "Camisa Vasco da Gama I 26/27 Torcedor Masculina",
-          "stock": 7,
+          "stock": 19,
           "sizes": [
             "P",
             "M",
+            "G",
             "GG",
             "2XL"
           ],
@@ -507,7 +487,7 @@
         },
         {
           "name": "Camisa Vasco da Gama III 2025 Torcedor Masculina",
-          "stock": 13,
+          "stock": 11,
           "sizes": [
             "P",
             "M",
@@ -536,10 +516,9 @@
         },
         {
           "name": "Camisa AS Roma III 25/26 Torcedor Masculina",
-          "stock": 5,
+          "stock": 4,
           "sizes": [
-            "P",
-            "G"
+            "P"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_4635-a0f0fe14091e80bfc517697132032151-480-0.webp",
           "price": 140,
@@ -547,7 +526,7 @@
         },
         {
           "name": "Camisa Atlético de Madrid II 25/26 Torcedor Masculina",
-          "stock": 4,
+          "stock": 3,
           "sizes": [
             "P"
           ],
@@ -557,7 +536,7 @@
         },
         {
           "name": "Camisa Barcelona I 2025/26 Torcedor Masculina",
-          "stock": 33,
+          "stock": 30,
           "sizes": [
             "P",
             "M",
@@ -594,9 +573,8 @@
         },
         {
           "name": "Camisa Chelsea II 2025/26 Torcedor Masculina (pequenas manchas vermelhas)",
-          "stock": 3,
+          "stock": 2,
           "sizes": [
-            "GG",
             "2XL"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_2727-53165011469050af4d17648013191264-480-0.webp",
@@ -605,7 +583,7 @@
         },
         {
           "name": "Camisa Inter de Milão I 2025/26 Torcedor Masculina",
-          "stock": 17,
+          "stock": 14,
           "sizes": [
             "P",
             "M",
@@ -619,9 +597,8 @@
         },
         {
           "name": "Camisa Juventus I 2025/26 Torcedor Masculina",
-          "stock": 7,
+          "stock": 6,
           "sizes": [
-            "M",
             "GG",
             "2XL"
           ],
@@ -631,8 +608,9 @@
         },
         {
           "name": "Camisa Lyon I 25/26 Torcedor Masculina (pode conter manchas)",
-          "stock": 1,
+          "stock": 2,
           "sizes": [
+            "P",
             "2XL"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_4612-d8c24108eafe69a6ec17697021799896-480-0.webp",
@@ -652,11 +630,10 @@
         },
         {
           "name": "Camisa Manchester United 25/26 Baseball",
-          "stock": 7,
+          "stock": 6,
           "sizes": [
             "P",
             "M",
-            "G",
             "2GG"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_9325-166dce13b95b0a9b8117834577540800-480-0.webp",
@@ -687,7 +664,7 @@
         },
         {
           "name": "Camisa PSG I 2025/26 Torcedor Masculina",
-          "stock": 7,
+          "stock": 5,
           "sizes": [
             "M",
             "G",
@@ -710,7 +687,7 @@
         },
         {
           "name": "Camisa Real Madrid 25/26 Torcedor Masculina",
-          "stock": 9,
+          "stock": 8,
           "sizes": [
             "P",
             "G",
@@ -734,7 +711,7 @@
         },
         {
           "name": "Camisa Real Madrid II 2025/26 Torcedor Masculina",
-          "stock": 8,
+          "stock": 9,
           "sizes": [
             "M",
             "G",
@@ -746,7 +723,7 @@
         },
         {
           "name": "Camisa Real Madrid III 25/26 Torcedor Masculina",
-          "stock": 10,
+          "stock": 9,
           "sizes": [
             "GG"
           ],
@@ -756,9 +733,10 @@
         },
         {
           "name": "Camisa Roma I 25/26 Torcedor Masculina",
-          "stock": 20,
+          "stock": 21,
           "sizes": [
             "P",
+            "M",
             "G",
             "GG",
             "2XL"
@@ -857,10 +835,10 @@
       "items": [
         {
           "name": "Camisa Alemanha II 25/26 Torcedor Masculina",
-          "stock": 9,
+          "stock": 10,
           "sizes": [
+            "M",
             "G",
-            "GG",
             "2XL"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_6258-f5590de0cf50981f6717744738241404-480-0.webp",
@@ -874,16 +852,6 @@
             "M"
           ],
           "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_4143-d151740e0d6c2eb48617684373957797-480-0.webp",
-          "price": 140,
-          "isNew": false
-        },
-        {
-          "name": "Camisa Portugal I 26/27 Torcedor Masculina",
-          "stock": 1,
-          "sizes": [
-            "GG"
-          ],
-          "image": "https://acdn-us.mitiendanube.com/stores/005/109/368/products/img_4131-b61436d6322dc13b5217684352758676-480-0.webp",
           "price": 140,
           "isNew": false
         },
